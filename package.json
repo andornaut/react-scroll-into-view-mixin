@@ -1,0 +1,21 @@
+{
+  "author": "andornaut",
+  "bugs": {
+    "url": "https://github.com/andornaut/react-scroll-into-view-mixin/issues"
+  },
+  "description": "A ReactJS mixin that enables components to scroll HTML elements into view.",
+  "keywords": [
+    "react",
+    "scroll",
+    "scroller",
+    "scrolling"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "react-scroll-into-view-mixin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andornaut/react-scroll-into-view-mixin.git"
+  },
+  "version": "0.0.1"
+}
